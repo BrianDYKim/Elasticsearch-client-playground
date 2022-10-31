@@ -4,5 +4,13 @@
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="elasticsearch1" target="11" />
+      <module name="elasticsearch1.main" target="11" />
+      <module name="elasticsearch1.test" target="11" />
+      <module name="untitled" target="11" />
+      <module name="untitled.main" target="11" />
+      <module name="untitled.test" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
